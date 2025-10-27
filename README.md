@@ -333,3 +333,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Add-On for Discord and Gravity Forms](https://wordpress.org/plugins/gf-discord/) - Send Gravity Form entries to a Discord channel.
 - [Omnisend for Gravity Forms Add-On](https://wordpress.org/plugins/omnisend-for-gravity-forms-add-on/) - A gravity forms add-on to sync contacts with Omnisend. In collaboration with Omnisend for WooCommerce plugin it enables better customer tracking.
 - [Connector for Gravity Forms and MailPoet](https://wordpress.org/plugins/connector-for-gravityforms-mailpoet/) - Integrate Gravity Forms with Mailpoet to easily subscribe users to your Mailpoet newsletters upon form submission.
+- [CleanTalk doBoard Add-On for Gravity Forms](https://wordpress.org/plugins/cleantalk-doboard-add-on-for-gravity-forms/) - Integrates Gravity Forms with doBoard, Ñreates tasks in the doBoard task board for each submission of forms.
